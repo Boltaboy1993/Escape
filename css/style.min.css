@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.stay {
+  background-image: url(/img/IMAGE.png);
+  width: 100%;
+  height: 378px;
+  background-size: cover;
+}
